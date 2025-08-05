@@ -52,4 +52,31 @@ Media aluno 1: 7.75
 
 --------- Aluno: Maria ---------
 Nome aluno 2: Maria 
-Media aluno 2: 9.13 
+Media aluno 2: 9.13
+```
+
+🚀 Como executar
+Para compilar e rodar o programa:
+```
+gcc main.c -o cadastro
+./cadastro
+```
+No Windows:
+```
+gcc main.c -o cadastro.exe
+cadastro.exe
+```
+📌 Melhorias futuras
+Permitir nomes compostos (usando fgets)
+
+Salvar os dados em arquivo .txt
+
+Ordenar alunos por média
+
+Mostrar estatísticas da turma
+
+👤 Autor
+Enzo Cerneviva
+Estudante de Ciência da Computação - FIAP
+LinkedIn: https://www.linkedin.com/in/enzocerneviva
+GitHub: https://github.com/enzocerneviva
