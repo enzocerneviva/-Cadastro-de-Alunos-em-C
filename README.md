@@ -67,15 +67,13 @@ gcc main.c -o cadastro.exe
 cadastro.exe
 ```
 ## 📌 Melhorias futuras
-Permitir nomes compostos (usando fgets)
 
-Salvar os dados em arquivo .txt
+- Permitir nomes compostos (usando fgets)
+- Salvar os dados em arquivo .txt
+- Ordenar alunos por média
+- Mostrar estatísticas da turma
 
-Ordenar alunos por média
-
-Mostrar estatísticas da turma
-
-👤 Autor
+## 👤 Autor
 Enzo Cerneviva
 Estudante de Ciência da Computação - FIAP
 LinkedIn: https://www.linkedin.com/in/enzocerneviva
