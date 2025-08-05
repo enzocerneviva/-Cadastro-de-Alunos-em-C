@@ -55,7 +55,7 @@ Nome aluno 2: Maria
 Media aluno 2: 9.13
 ```
 
-🚀 Como executar
+##🚀 Como executar
 Para compilar e rodar o programa:
 ```
 gcc main.c -o cadastro
@@ -66,7 +66,7 @@ No Windows:
 gcc main.c -o cadastro.exe
 cadastro.exe
 ```
-📌 Melhorias futuras
+##📌 Melhorias futuras
 Permitir nomes compostos (usando fgets)
 
 Salvar os dados em arquivo .txt
