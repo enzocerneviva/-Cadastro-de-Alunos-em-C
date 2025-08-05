@@ -74,7 +74,7 @@ cadastro.exe
 - Mostrar estatísticas da turma
 
 ## 👤 Autor
-Enzo Cerneviva
-Estudante de Ciência da Computação - FIAP
-LinkedIn: https://www.linkedin.com/in/enzocerneviva
-GitHub: https://github.com/enzocerneviva
+Enzo Cerneviva  
+Estudante de Ciência da Computação - FIAP  
+LinkedIn: https://www.linkedin.com/in/enzocerneviva  
+GitHub: https://github.com/enzocerneviva  
