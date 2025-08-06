@@ -68,5 +68,9 @@ int main(){
     }
 
     free(turma);
+
+    getchar();
+    printf("Pressione ENTER para sair...");
+    getchar(); // Espera o usuário apertar ENTER
     return 0;
 }
